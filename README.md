@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @theC0ding
+- 👀 I’m interested in artificial intelligence, web/mobile development and open-source projects
+- 🌱 I’m currently learning Software Engineering
+- 💞️ I’m looking to collaborate on any interesting project related to web/mobile development, devops, artificial intelligence and machine learning.
+- 😄 Pronouns: He
+- ⚡ Fun fact: I love playing video games, solving puzzles and reading.
